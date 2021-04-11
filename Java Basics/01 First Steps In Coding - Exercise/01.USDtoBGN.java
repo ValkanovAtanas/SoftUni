@@ -6,6 +6,6 @@ class USDtoBGN {
         Scanner scanner = new Scanner(System.in);
         double usd = 1.79549;
         double bgn = Double.parseDouble(scanner.nextLine());
-        System.out.println(usd * bgn);;
+        System.out.println(usd * bgn);
     }
 }
