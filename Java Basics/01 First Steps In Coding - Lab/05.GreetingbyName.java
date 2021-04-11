@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class HelloSoftUni {
+class GreetingbyName {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
