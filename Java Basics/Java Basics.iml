@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01 First Steps In Coding - Exercise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01 First Steps In Coding - Lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02 Conditional Statements - Exercise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02 Conditional Statements - Lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03 Conditional Statements Advanced - Exercise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03 Conditional Statements Advanced - Lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04 For Loop - Exercise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04 For Loop - Lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05 While Loop - Exercise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05 While Loop - Lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06 Nested Loops - Exercise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06 Nested Loops - Lab" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
