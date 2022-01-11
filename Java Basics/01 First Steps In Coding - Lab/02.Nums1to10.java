@@ -1,4 +1,4 @@
-public class Nums1to10 {
+class Nums1to10 {
 
     public static void main(String[] args) {
         System.out.println("1");
