@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class NumberSequence {
+class CleverLily {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
